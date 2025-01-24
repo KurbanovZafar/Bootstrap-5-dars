@@ -1,0 +1,35 @@
+.a{
+    color: black;
+    margin-top: -70px;
+    margin-left: 700px;
+
+}
+.b{
+    margin-top: 10px;
+    background-color: darkblue;
+    text-align: left;
+}
+.d{
+    width: 60%;
+    background-color:   #0000a3;
+}
+.e{
+    margin-top: 10px;
+    background-color: darkgreen;
+    text-align: left;
+}
+.f{
+    margin-top: 10px;
+    background-color: darkcyan;
+    text-align: left;
+}
+.g{
+    margin-top: 10px;
+    background-color: darkorange;
+    text-align: left;
+}
+.h{
+    margin-top: 10px;
+    background-color: darkred;
+    text-align: left;
+}
